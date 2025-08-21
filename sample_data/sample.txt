@@ -1,0 +1,22 @@
+This is a sample text file for testing the File Parser API.
+
+The API supports multiple file formats including:
+- CSV files
+- Excel files (xlsx, xls)
+- PDF files
+- Text files
+
+Features:
+1. File upload with progress tracking
+2. Automatic file parsing
+3. Background processing
+4. RESTful API endpoints
+5. Real-time status updates
+
+This file contains multiple lines to test the text parsing functionality.
+Each line will be counted and analyzed by the parser.
+
+The API uses Django REST Framework for the backend and Celery for background tasks.
+PostgreSQL is used for metadata storage and MongoDB for parsed content.
+
+End of sample text file.
